@@ -8,7 +8,8 @@ the_data/image_search/contest_data/shoes/shoes_image/
 
 .pki/
 .ssh/
-
+.viminfo
+.bash_history
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,0 +1,12 @@
+Path                                                                                  #Path       Size
+----                                                                                  -----       ----
+/home/big_data_contest/the_data                                                           4       3.6G
+/home/big_data_contest/the_data/contest_data                                              2       2.1G
+/home/big_data_contest/the_data/contest_data/clothes                                      2       1.1G
+/home/big_data_contest/the_data/contest_data/clothes/clothes_image                   150000       1.1G
+/home/big_data_contest/the_data/contest_data/clothes/clothes_source                       3       268K
+/home/big_data_contest/the_data/contest_data/shoes                                        2      1006M
+/home/big_data_contest/the_data/contest_data/shoes/shoes_image                       150000      1005M
+/home/big_data_contest/the_data/contest_data/shoes/shoes_source                           3       408K
+/home/big_data_contest/the_data/test_data                                                 0       4.0K
+/home/big_data_contest/the_data/training_data                                             0       4.0K

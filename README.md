@@ -23,6 +23,8 @@ Big_Data_Contest
 
 百度云网盘：http://pan.baidu.com/share/link?shareid=3724932786&uk=2404571876&third=15
 
+**手动下载`rar`数据包至`the_data/image_search/contest_data.rar`后，解压其至当前目录，覆盖原有目录及文件。**
+
 注:本次比赛所用数据集均来源于互联网，仅用于本次竞赛的分析、建模用途，不得用于其他用途，竞赛委员会不具有拥有和授权权利。
 
 ## 提交数据格式

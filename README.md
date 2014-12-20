@@ -37,7 +37,7 @@ Big_Data_Contest
 
 | 文件名 | 所有格式 |
 | ------ | -------- |
-| `demo.csv` | [csv (10.86kb)](http://www.pkbigdata.com/Uploads/competitions/5465d68bb4343.csv) |
+| demo.csv | [csv (10.86kb)](http://www.pkbigdata.com/Uploads/competitions/5465d68bb4343.csv) |
 
 ## 评分方法
 

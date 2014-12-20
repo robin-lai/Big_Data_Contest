@@ -3,7 +3,8 @@ sftp-config*.json
 *.sublime-workspace
 
 the_data/contest_data.rar
-the_data/contest_data/
+the_data/contest_data/clothes/clothes_image
+the_data/contest_data/shoes/shoes_image
 
 .pki/
 .ssh/
